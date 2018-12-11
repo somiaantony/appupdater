@@ -1,9 +1,8 @@
 {
   "latestVersion": "4.3.2",
-  "latestVersionCode": "102",
+  "latestVersionCode": "105",
   "url": "https://play.google.com/store/apps/details?id=com.healthera.healtheraapp",
   "releaseNotes": [
-    "- We have introduced upload your profile picture feature while using the avatars",
-    "- Improvement and stability releases"
+    "- As you’ve come to expect, we’ve squashed some bugs that we found hiding behind a sofa and added some GDPR goodness and background features to make the pharmacy experience even better."
   ]
 }
