@@ -1,9 +1,8 @@
 {
-  "latestVersion": "4.5.2",
-  "latestVersionCode": "108",
+  "latestVersion": "4.6.0",
+  "latestVersionCode": "109",
   "url": "https://play.google.com/store/apps/details?id=com.healthera.healtheraapp",
   "releaseNotes": [
-    "- Bug fixes and performance enhancements",
-    "- As you’ve come to expect, we’ve squashed some bugs that we found hiding behind a sofa and added some GDPR goodness and background features to make the pharmacy experience even better."
+   "We’ve completely refreshed our branding! You’ll notice a fresh new eye-popping app icon, a more serene shade of green, and plenty of graphical improvements throughout the app. For those of you who live in an area where prescription requests are first sent to NHS medicines coordinators (POD), we’ve introduced an improved way for you to message back about your order after an initial decision has been made."
   ]
 }
