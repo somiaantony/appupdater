@@ -1,8 +1,8 @@
 {
-  "latestVersion": "4.6.0",
-  "latestVersionCode": "109",
+  "latestVersion": "4.7.3",
+  "latestVersionCode": "118",
   "url": "https://play.google.com/store/apps/details?id=com.healthera.healtheraapp",
   "releaseNotes": [
-   "We’ve completely refreshed our branding! You’ll notice a fresh new eye-popping app icon, a more serene shade of green, and plenty of graphical improvements throughout the app. For those of you who live in an area where prescription requests are first sent to NHS medicines coordinators (POD), we’ve introduced an improved way for you to message back about your order after an initial decision has been made."
+   "This version we're introducing the much-requested option for you to receive a friendly reminder at the end of the day to check that all your medicines have been taken. Extremely helpful for those of you who need an additional reminder. You don't need to turn it on if you don't need it."
   ]
 }
