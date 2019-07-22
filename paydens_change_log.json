@@ -1,8 +1,8 @@
 {
-  "latestVersion": "4.7.3",
-  "latestVersionCode": "110",
+  "latestVersion": "4.7.5",
+  "latestVersionCode": "112",
   "url": "https://play.google.com/store/apps/details?id=com.healthera.healtheraapp.paydens",
   "releaseNotes": [
-   "This version we're introducing the much-requested option for you to receive a friendly reminder at the end of the day to check that all your medicines have been taken. Extremely helpful for those of you who need an additional reminder. You don't need to turn it on if you don't need it."
+   "We've completely upgraded our in-app support system! This should make it much easier for you to get in contact with one of our support agents and we will be able to better respond to your technical enquiries and feedback. Please note that we do not provide medical advice; please direct those to your doctor or pharmacist instead. We've also fixed numerous small issues."
   ]
 }
