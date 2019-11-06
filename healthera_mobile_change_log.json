@@ -1,8 +1,8 @@
 {
-  "latestVersion": "4.7.5",
-  "latestVersionCode": "121",
+  "latestVersion": "5.1.1",
+  "latestVersionCode": "133",
   "url": "https://play.google.com/store/apps/details?id=com.healthera.healtheraapp",
   "releaseNotes": [
-   "We've completely upgraded our in-app support system! This should make it much easier for you to get in contact with one of our support agents and we will be able to better respond to your technical enquiries and feedback. Please note that we do not provide medical advice; please direct those to your doctor or pharmacist instead. We've also fixed numerous small issues."
+   "This version include minor bug fixes to make the app more reliable."
   ]
 }
