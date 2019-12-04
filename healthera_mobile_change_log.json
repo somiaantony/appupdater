@@ -1,8 +1,8 @@
 {
-  "latestVersion": "5.1.1",
-  "latestVersionCode": "133",
+  "latestVersion": "5.3.0",
+  "latestVersionCode": "137",
   "url": "https://play.google.com/store/apps/details?id=com.healthera.healtheraapp",
   "releaseNotes": [
-   "This version include minor bug fixes to make the app more reliable."
+   "A big update is now here! If you’re new to Healthera, no matter where you are, we are able to match you with a pharmacy that can deliver medicines to your door. We have also made lots of performance improvements to make the app run smoother."
   ]
 }
