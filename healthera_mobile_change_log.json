@@ -1,8 +1,8 @@
 {
-  "latestVersion": "5.3.0",
-  "latestVersionCode": "137",
+  "latestVersion": "5.6.0",
+  "latestVersionCode": "139",
   "url": "https://play.google.com/store/apps/details?id=com.healthera.healtheraapp",
   "releaseNotes": [
-   "A big update is now here! If you’re new to Healthera, no matter where you are, we are able to match you with a pharmacy that can deliver medicines to your door. We have also made lots of performance improvements to make the app run smoother."
+   "We have improved the way reminders are added and changed for medicines. Adding a medicine & ordering is now simpler and quicker to do. UI improvements & Bug fixes"
   ]
 }
