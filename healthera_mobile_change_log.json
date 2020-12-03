@@ -1,8 +1,8 @@
 {
-  "latestVersion": "5.8.1",
-  "latestVersionCode": "147",
+  "latestVersion": "8.2.7",
+  "latestVersionCode": "167",
   "url": "https://play.google.com/store/apps/details?id=com.healthera.healtheraapp",
   "releaseNotes": [
-   "Performance improvements, design upgrades and bug fixes"
+   "Mobile Payment, delivery timeslot selection and reviews and rating"
   ]
 }
